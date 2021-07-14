@@ -6,7 +6,7 @@
 <a href="https://mishra695047.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-![counter](https://[enyzpxwvh2g0lx2].m.pipedream.net)
+![counter](https://enyzpxwvh2g0lx2.m.pipedream.net)
 
 **Things I code with:**
 
